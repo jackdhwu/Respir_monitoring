@@ -2,7 +2,7 @@
 The source code and dataset of "Simultaneously monitor the respiratory behavior of multiple cows based on computer vision and deep learning".
 * __You could find the demo video of this study at:  https://youtu.be/sf4mx50mWAo__
 
-We will release our code and associated datasets here once our paper has been accepted.
+* __We will release our code and associated datasets here as soon as our paper has been accepted.__
 
 ****
 
